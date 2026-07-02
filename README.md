@@ -2,30 +2,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=200&section=header&text=sirvffg&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="header" />
 
-### 👋 Welcome to my GitHub
+### 👋 欢迎来到我的 GitHub
 
 <p>
   <a href="https://github.com/sirvffg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sirvffg&style=for-the-badge&color=6C5CE7" alt="Profile Views"/>
+  <a href="https://lygalaxy.cn"><img src="https://img.shields.io/badge/网站-lygalaxy.cn-6C5CE7?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sirvffg&style=for-the-badge&color=6C5CE7" alt="访问量"/>
 </p>
 
 ---
 
 </div>
 
-### 🧑‍💻 About Me
+### 🧑‍💻 关于我
 
-- 🔭 **Currently working on:** something cool
-- 🌱 **Currently learning:** new technologies every day
-- 👯 **Looking to collaborate on:** open source projects
-- 🤔 **Looking for help with:** innovative ideas
-- 💬 **Ask me about:** anything you'd like
-- 📫 **How to reach me:** [your-email@example.com](mailto:your-email@example.com)
-- ⚡ **Fun fact:** Code is poetry
+我是 **夏雨 (SIRVFFG)**，一名热爱编程的开发者。
+
+- 🔭 **正在开发：** Craft-Server-Launcher（MC 开服器）及各种电脑工具软件
+- 🌱 **正在学习：** 不断探索新技术
+- 👯 **寻求合作：** 开源项目
+- 🤔 **需要帮助：** 创新的想法
+- 💬 **欢迎咨询：** 任何你感兴趣的话题
+- 📫 **联系方式：** [xiahaixin20080705@outlook.com](mailto:xiahaixin20080705@outlook.com)
+- 🌐 **个人网站：** [https://lygalaxy.cn](https://lygalaxy.cn)
+- ⚡ **趣事：** 代码即诗 🎵
+
+> 开发组成员：[@BaiyunCRK](https://github.com/BaiyunCRK) | 合作者：[@Zecci9](https://github.com/Zecci9)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -41,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub 统计
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirvffg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -54,7 +60,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub 成就
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sirvffg&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
