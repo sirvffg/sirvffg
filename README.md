@@ -19,11 +19,12 @@
 我是 **夏雨 (Galaxy)**，一名热爱编程的开发者。
 
 - 🔭 **正在开发：** 个人博客 网页插件 电脑工具集
-- 🌱 **正在学习：** 不断探索新技术
-- 💬 **欢迎咨询：** 任何你感兴趣的话题
 - 📫 **联系方式：** [2648181326@qq.com](mailto:2648181326@qq.com)
-- 🌐 **个人网站：** **冷月笙寒的小窝**[https://lygalaxy.cn](https://lygalaxy.cn)
-- ⚡ **趣事：** 代码即诗 🎵
+- 🌐 **个人网站：** **冷月笙寒的小窝**  [https://lygalaxy.cn](https://lygalaxy.cn)
+- 🎐 项目个个烂尾，长于编写不可维护的一次性代码（x
+
+> [!TIP]
+> 🔭 如果你有好的点子，请告诉我，让我们一起保持好奇心 ヽ(・∀・)ﾉ
 
 > 开发组成员：[@BaiyunCRK](https://github.com/BaiyunCRK) | 合作者：[@Zecci9](https://github.com/Zecci9)
 
