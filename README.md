@@ -20,7 +20,7 @@
 
 - 🔭 **正在开发：** 个人博客 网页插件 电脑工具集
 - 📫 **联系方式：** [2648181326@qq.com](mailto:2648181326@qq.com)
-- 🌐 **个人网站：** **冷月笙寒的小窝**  [https://lygalaxy.cn](https://lygalaxy.cn)
+- 🌐 **个人网站：** [冷月笙寒的小窝](https://lygalaxy.cn)
 - 🎐 项目个个烂尾，长于编写不可维护的一次性代码（x
 
 > [!TIP]
@@ -32,18 +32,9 @@
 
 ### 🛠️ 技术栈
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,php,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+</div>
 
 ---
 
