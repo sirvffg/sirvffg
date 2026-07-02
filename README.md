@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=250&section=header&text=Galaxy&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=星尘为墨，落雨成章&descAlignY=55" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=260&section=header&text=Galaxy&fontSize=72&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=星尘为墨，落雨成章%20%7C%20WeChat%3A%20Skytech_XY%20%7C%20QQ%3A%202648181326%20%7C%20抖音%3A%20BY2648181326&descAlignY=62" />
 
   # 👋 Hello，here is Galaxy
 
@@ -13,10 +14,15 @@
 我是 **夏雨 (Galaxy)**，一名热爱编程的开发者。
 
 - 🔭 **正在开发：** 个人博客 网页插件 电脑工具集
-- 📫 **联系方式：** [2648181326@qq.com](mailto:2648181326@qq.com)
 - 🌐 **个人网站：** [冷月笙寒的小窝](https://lygalaxy.cn)
 - 🎐 项目个个烂尾，长于编写不可维护的一次性代码（x
-
+- 📫 **联系我：**
+  <p>
+    <a href="mailto:2648181326@qq.com"><img src="https://img.shields.io/badge/Email-2648181326%40qq.com-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <img src="https://img.shields.io/badge/WeChat-Skytech_XY-00C853?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+    <img src="https://img.shields.io/badge/QQ-2648181326-7289DA?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/>
+    <img src="https://img.shields.io/badge/抖音-BY2648181326-FF004F?style=for-the-badge&logo=tiktok&logoColor=white" alt="Douyin"/>
+  </p>
 > [!TIP]
 > 🔭 如果你有好的点子，请告诉我，让我们一起保持好奇心 ヽ(・∀・)ﾉ
 
