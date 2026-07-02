@@ -60,10 +60,21 @@
 
 ---
 
-### 🏆 GitHub 成就
+### 📌 精选项目
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=sirvffg&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/sirvffg/Craft-Server-Launcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirvffg&repo=Craft-Server-Launcher&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
+  <a href="https://github.com/sirvffg/sirvffg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirvffg&repo=sirvffg&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/sirvffg?tab=repositories">
+    <img src="https://img.shields.io/badge/更多项目-查看全部-6C5CE7?style=for-the-badge&logo=github" alt="查看更多" />
+  </a>
 </div>
 
 ---
