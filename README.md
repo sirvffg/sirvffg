@@ -15,14 +15,14 @@
 
 - 🔭 **正在开发：** 个人博客 网页插件 电脑工具集
 - 🌐 **个人网站：** [冷月笙寒的小窝](https://lygalaxy.cn)
-- 🎐 项目个个烂尾，长于编写不可维护的一次性代码（x
-- 📫 **联系我：**
+- 📫 **联系我：** 点击就可以转跳哦 φ(*￣0￣)
   <p>
     <a href="mailto:2648181326@qq.com"><img src="https://img.shields.io/badge/Email-2648181326%40qq.com-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="images/WX.jpg"><img src="https://img.shields.io/badge/WeChat-Skytech_XY-00C853?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
     <a href="images/QQ.jpg"><img src="https://img.shields.io/badge/QQ-2648181326-7289DA?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/></a>
     <a href="images/Douyiu.png"><img src="https://img.shields.io/badge/抖音-BY2648181326-FF004F?style=for-the-badge&logo=tiktok&logoColor=white" alt="Douyin"/></a>
   </p>
+- 🎐 项目个个烂尾，长于编写不可维护的一次性代码（x
 > [!TIP]
 > 🔭 如果你有好的点子，请告诉我，让我们一起保持好奇心 ヽ(・∀・)ﾉ
 
