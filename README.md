@@ -1,16 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=250&section=header&text=Galaxy&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=星尘为墨，落雨成章&descAlignY=55" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=200&section=header&text=Galaxy&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="header" />
+  # 👋 Hello，here is Galaxy
 
-### 👋 欢迎来到我的 GitHub
-
-<p>
-  <a href="https://github.com/sirvffg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://lygalaxy.cn"><img src="https://img.shields.io/badge/网站-lygalaxy.cn-6C5CE7?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sirvffg&style=for-the-badge&color=6C5CE7" alt="访问量"/>
-</p>
-
----
+  <!-- 更改轮播内容和动画速度 -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=开发者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
 
 </div>
 
