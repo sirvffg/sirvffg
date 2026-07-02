@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=200&section=header&text=sirvffg&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=200&section=header&text=Galaxy&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="header" />
 
 ### 👋 欢迎来到我的 GitHub
 
@@ -16,14 +16,12 @@
 
 ### 🧑‍💻 关于我
 
-我是 **夏雨 (SIRVFFG)**，一名热爱编程的开发者。
+我是 **夏雨 (Galaxy)**，一名热爱编程的开发者。
 
-- 🔭 **正在开发：** Craft-Server-Launcher（MC 开服器）及各种电脑工具软件
+- 🔭 **正在开发：** 个人博客 网页插件 电脑工具集
 - 🌱 **正在学习：** 不断探索新技术
-- 👯 **寻求合作：** 开源项目
-- 🤔 **需要帮助：** 创新的想法
 - 💬 **欢迎咨询：** 任何你感兴趣的话题
-- 📫 **联系方式：** [xiahaixin20080705@outlook.com](mailto:xiahaixin20080705@outlook.com)
+- 📫 **联系方式：** [2648181326@qq.com](mailto:2648181326@qq.com)
 - 🌐 **个人网站：** [https://lygalaxy.cn](https://lygalaxy.cn)
 - ⚡ **趣事：** 代码即诗 🎵
 
