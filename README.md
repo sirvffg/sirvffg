@@ -19,9 +19,9 @@
 - 📫 **联系我：**
   <p>
     <a href="mailto:2648181326@qq.com"><img src="https://img.shields.io/badge/Email-2648181326%40qq.com-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <img src="https://img.shields.io/badge/WeChat-Skytech_XY-00C853?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
-    <img src="https://img.shields.io/badge/QQ-2648181326-7289DA?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/>
-    <img src="https://img.shields.io/badge/抖音-BY2648181326-FF004F?style=for-the-badge&logo=tiktok&logoColor=white" alt="Douyin"/>
+    <a href="images/wechat.svg"><img src="https://img.shields.io/badge/WeChat-Skytech_XY-00C853?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
+    <a href="images/qq.svg"><img src="https://img.shields.io/badge/QQ-2648181326-7289DA?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/></a>
+    <a href="images/douyin.svg"><img src="https://img.shields.io/badge/抖音-BY2648181326-FF004F?style=for-the-badge&logo=tiktok&logoColor=white" alt="Douyin"/></a>
   </p>
 > [!TIP]
 > 🔭 如果你有好的点子，请告诉我，让我们一起保持好奇心 ヽ(・∀・)ﾉ
