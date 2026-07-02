@@ -1,10 +1,13 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=260&section=header&text=Galaxy&fontSize=72&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=星尘为墨，落雨成章%20%7C%20WeChat%3A%20Skytech_XY%20%7C%20QQ%3A%202648181326%20%7C%20抖音%3A%20BY2648181326&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=250&section=header&text=Galaxy&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=星尘为墨，落雨成章&descAlignY=55" />
 
   # 👋 Hello，here is Galaxy
 
-  <!-- 更改轮播内容和动画速度 -->
+  <img src="https://komarev.com/ghpvc/?username=sirvffg&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+  <img src="https://img.shields.io/github/followers/sirvffg?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+  <img src="https://img.shields.io/github/stars/sirvffg?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=开发者+%7C+研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
 
 </div>
