@@ -33,7 +33,7 @@
 ### 🛠️ 技术栈
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,php,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,php,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker,react,nodejs,typescript,go,rust,kotlin,swift,aws,azure,gcp,postgres,redis,nginx,flutter,graphql,nextjs,redux,express&perline=9" />
 </div>
 
 ---
