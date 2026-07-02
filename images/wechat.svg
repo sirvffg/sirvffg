@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
-  <rect width="400" height="400" fill="#f0f0f0" rx="20"/>
-  <rect width="360" height="360" x="20" y="20" fill="#00C853" rx="16"/>
-  <text x="200" y="180" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">微信</text>
-  <text x="200" y="220" font-family="Arial,sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="middle">Skytech_XY</text>
-  <text x="200" y="300" font-family="Arial,sans-serif" font-size="14" fill="rgba(255,255,255,0.6)" text-anchor="middle">请替换为微信二维码图片</text>
-</svg>
