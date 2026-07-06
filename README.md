@@ -73,7 +73,7 @@
 </picture>
 
 <!-- 贡献日历热图 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirvffg&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirvffg" width="100%" />
 </div>
 
 ---
