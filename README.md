@@ -49,10 +49,25 @@
 </h2>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirvffg&theme=tokyonight&hide_border=true" width="32%" alt="GitHub 统计" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirvffg&theme=tokyonight&hide_border=true" width="32%" alt="仓库语言分布" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirvffg&theme=tokyonight&hide_border=true" width="32%" alt="主要提交语言" />
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sirvffg">
+        <img src="https://img.shields.io/github/followers/sirvffg?label=关注者&style=for-the-badge&color=00C853" alt="GitHub 关注者" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sirvffg/sirvffg">
+        <img src="https://img.shields.io/github/stars/sirvffg/sirvffg?label=Profile%20repo%20stars&style=for-the-badge&color=2C9CDF" alt="个人主页仓库星标" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sirvffg?tab=repositories">
+        <img src="https://img.shields.io/badge/代码语言-浏览仓库-FFC371?style=for-the-badge" alt="浏览仓库语言" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -72,8 +87,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sirvffg/sirvffg/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<!-- 贡献日历热图 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirvffg&theme=tokyonight" width="100%" />
 </div>
 
 ---
