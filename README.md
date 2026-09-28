@@ -49,9 +49,9 @@
 </h2>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirvffg&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirvffg&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirvffg&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirvffg&theme=tokyonight&hide_border=true" width="32%" alt="GitHub 统计" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirvffg&theme=tokyonight&hide_border=true" width="32%" alt="仓库语言分布" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirvffg&theme=tokyonight&hide_border=true" width="32%" alt="主要提交语言" />
 
 </div>
 
