@@ -4,7 +4,7 @@
 
   # 👋 Hello，here is Galaxy
 
-  [![访问索引](https://komarev.com/ghpvc/?username=sirvffg&label=访问索引&style=for-the-badge&color=blueviolet)](https://github.com/sirvffg)
+  <img src="https://komarev.com/ghpvc/?username=sirvffg&style=for-the-badge&color=blueviolet" alt="访问计数器" />
   <img src="https://img.shields.io/github/followers/sirvffg?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
   <img src="https://img.shields.io/github/stars/sirvffg?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
   <a href="https://lygalaxy.cn"><img src="https://img.shields.io/badge/网站-冷月笙寒的小窝-6C5CE7?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/></a>
@@ -49,9 +49,9 @@
 </h2>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirvffg" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirvffg" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirvffg" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirvffg&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirvffg&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirvffg&theme=radical" width="33%" />
 
 </div>
 
@@ -73,7 +73,7 @@
 </picture>
 
 <!-- 贡献日历热图 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirvffg" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirvffg&theme=tokyonight" width="100%" />
 </div>
 
 ---
